@@ -83,7 +83,7 @@ googleAnalytics = "UA-37514928-9"
 	weight = 7
 
 [[menu.main]]
-	name   = "License"
+	name   = "证书"
 	url    = "license/"
 	weight = 8
 
