@@ -12,7 +12,7 @@ googleAnalytics = "UA-37514928-9"
 [params]
 	# General information
 	author = "Mahmoud Zalt"
-	description = "Full PHP development environment for Docker."
+	description = "基于Docker的PHP完整开发环境"
 	copyright = ""
 
 	# Repository
@@ -73,7 +73,7 @@ googleAnalytics = "UA-37514928-9"
 	weight = 5
 
 [[menu.main]]
-	name   = "Related Projects"
+	name   = "相关项目"
 	url    = "related-projects/"
 	weight = 6
 

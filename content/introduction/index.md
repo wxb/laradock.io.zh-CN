@@ -16,7 +16,7 @@ Laradock is well known in the Laravel community, as the project started with sin
 
 ![](https://s19.postimg.org/jblfytw9f/laradock-logo.jpg)
 
-## Quick Overview
+## 概述
 
 Let's see how easy it is to install `NGINX`, `PHP`, `Composer`, `MySQL`, `Redis` and `Beanstalkd`:
 
@@ -56,7 +56,7 @@ That's it! enjoy :)
 
 
 <a name="features"></a>
-## Features
+## 特性
 
 - Easy switch between PHP versions: 7.1, 7.0, 5.6...
 - Choose your favorite database engine: MySQL, Postgres, MariaDB...
@@ -116,7 +116,7 @@ If you can't find your Software in the list, build it yourself and submit it. Co
 
 
 
-## Sponsors
+## 赞助商
 
 
 
@@ -145,7 +145,7 @@ Your logo will show up on the [github repository](https://github.com/laradock/la
 
 
 <a name="what-is-docker"></a>
-## What is Docker?
+## Docker是什么?
 
 [Docker](https://www.docker.com) is an open platform for developing, shipping, and running applications.
 Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.
@@ -157,7 +157,7 @@ By taking advantage of Docker’s methodologies for shipping, testing, and deplo
 
 
 <a name="why-docker-not-vagrant"></a>
-## Why Docker not Vagrant!?
+## 为什么是 Docker 而不是 Vagrant!?
 
 [Vagrant](https://www.vagrantup.com) creates Virtual Machines in minutes while Docker creates Virtual Containers in seconds.
 
@@ -173,7 +173,7 @@ Most importantly Docker can run on Development and on Production (same environme
 
 
 <a name="Demo"></a>
-## Demo Video
+## 示例教程
 
 What's better than a **Demo Video**:
 
@@ -201,7 +201,7 @@ You are welcome to join our chat room on Gitter.
 
 
 <a name="Donations"></a>
-## Donations
+## 捐助
 
 > Help keeping the project development going, by [contributing](http://laradock.io/contributing) or donating a little. 
 > Thanks in advance.
