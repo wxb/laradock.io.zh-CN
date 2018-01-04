@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/documentation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/guides/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/help/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/related-projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/contributing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/categories.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/contributing.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/documentation.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/getting-started.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/guides.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/help.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/introduction.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/license.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/related-projects.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wxb.github.io/laradock.io.zh-CN/tags.html</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

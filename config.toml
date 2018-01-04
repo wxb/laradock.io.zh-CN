@@ -1,6 +1,6 @@
 baseurl = "https://wxb.github.io/laradock.io.zh-CN/"
 languageCode = "en-us"
-publishDir = "public"
+publishDir = "docs"
 title = "Laradock"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
