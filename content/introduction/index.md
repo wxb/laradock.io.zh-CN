@@ -77,7 +77,7 @@ That's it! enjoy :)
 
 
 <a name="Supported-Containers"></a>
-## Supported Software (Images)
+## 支持的软件 (镜像)
 
 In adhering to the separation of concerns principle as promoted by Docker, Laradock runs each software on its own Container.
 You can turn On/Off as many instances of as any container without worrying about the configurations, everything works like a charm.
@@ -190,7 +190,7 @@ What's better than a **Demo Video**:
 
 
 <a name="Chat"></a>
-## Chat with us
+## 与我们沟通
 
 You are welcome to join our chat room on Gitter.
 
