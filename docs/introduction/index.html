@@ -381,31 +381,31 @@
 
 <h2 id="概述">概述</h2>
 
-<p>Let&rsquo;s see how easy it is to install <code>NGINX</code>, <code>PHP</code>, <code>Composer</code>, <code>MySQL</code>, <code>Redis</code> and <code>Beanstalkd</code>:</p>
+<p>来让我们一起看看安装<code>NGINX</code>, <code>PHP</code>, <code>Composer</code>, <code>MySQL</code>, <code>Redis</code> 和 <code>Beanstalkd</code>有多容易:</p>
 
-<p>1 - Clone Laradock inside your PHP project:</p>
+<p>1 - 克隆 Laradock 到你的PHP项目中:</p>
 
 <pre><code class="language-shell">git clone https://github.com/Laradock/laradock.git
 </code></pre>
 
-<p>2 - Enter the laradock folder and rename <code>env-example</code> to <code>.env</code>.</p>
+<p>2 - 进入 laradock 目录, 将 <code>env-example</code> 文件名修改为 <code>.env</code>(<strong><em>或者复制 <code>env-example</code> 文件命名为 <code>.env</code></em></strong>).</p>
 
 <pre><code class="language-shell">cp env-example .env
 </code></pre>
 
-<p>3 - Run your containers:</p>
+<p>3 - 运行你的容器:</p>
 
 <pre><code class="language-shell">docker-compose up -d nginx mysql redis beanstalkd
 </code></pre>
 
-<p>4 - Open your project&rsquo;s <code>.env</code> file and set the following:</p>
+<p>4 - 打开你的PHP项目下的 <code>.env</code> 文件， 像下面这样配置:</p>
 
 <pre><code class="language-shell">DB_HOST=mysql
 REDIS_HOST=redis
 QUEUE_HOST=beanstalkd
 </code></pre>
 
-<p>5 - Open your browser and visit localhost: <code>http://localhost</code>.</p>
+<p>5 - 打开你的浏览器并访问: <code>http://localhost</code>.</p>
 
 <pre><code class="language-shell">That's it! enjoy :)
 </code></pre>
@@ -415,7 +415,7 @@ QUEUE_HOST=beanstalkd
 <h2 id="特性">特性</h2>
 
 <ul>
-<li>Easy switch between PHP versions: 7.1, 7.0, 5.6&hellip;</li>
+<li>轻松切换PHP版本: 7.1, 7.0, 5.6&hellip;</li>
 <li>Choose your favorite database engine: MySQL, Postgres, MariaDB&hellip;</li>
 <li>Run your own combination of software: Memcached, HHVM, Beanstalkd&hellip;</li>
 <li>Every software runs on a separate container: PHP-FPM, NGINX, PHP-CLI&hellip;</li>

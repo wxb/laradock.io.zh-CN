@@ -18,27 +18,27 @@ Laradock is well known in the Laravel community, as the project started with sin
 
 ## 概述
 
-Let's see how easy it is to install `NGINX`, `PHP`, `Composer`, `MySQL`, `Redis` and `Beanstalkd`:
+来让我们一起看看安装`NGINX`, `PHP`, `Composer`, `MySQL`, `Redis` 和 `Beanstalkd`有多容易:
 
-1 - Clone Laradock inside your PHP project:
+1 - 克隆 Laradock 到你的PHP项目中:
 
 ```shell
 git clone https://github.com/Laradock/laradock.git
 ```
 
-2 - Enter the laradock folder and rename `env-example` to `.env`.
+2 - 进入 laradock 目录, 将 `env-example` 文件名修改为 `.env`(***或者复制 `env-example` 文件命名为 `.env`***).
 
 ```shell
 cp env-example .env
 ```
 
-3 - Run your containers:
+3 - 运行你的容器:
 
 ```shell
 docker-compose up -d nginx mysql redis beanstalkd
 ```
 
-4 - Open your project's `.env` file and set the following:
+4 - 打开你的PHP项目下的 `.env` 文件， 像下面这样配置:
 
 ```shell
 DB_HOST=mysql
@@ -46,7 +46,7 @@ REDIS_HOST=redis
 QUEUE_HOST=beanstalkd
 ```
 
-5 - Open your browser and visit localhost: `http://localhost`.
+5 - 打开你的浏览器并访问: `http://localhost`.
 
 ```shell
 That's it! enjoy :)
@@ -58,7 +58,7 @@ That's it! enjoy :)
 <a name="features"></a>
 ## 特性
 
-- Easy switch between PHP versions: 7.1, 7.0, 5.6...
+- 轻松切换PHP版本: 7.1, 7.0, 5.6...
 - Choose your favorite database engine: MySQL, Postgres, MariaDB...
 - Run your own combination of software: Memcached, HHVM, Beanstalkd...
 - Every software runs on a separate container: PHP-FPM, NGINX, PHP-CLI...
