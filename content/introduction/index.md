@@ -7,7 +7,7 @@ weight: 1
 
 
 
-A full PHP development environment for Docker.
+一个基于Docker容器技术的完整PHP开发环境
 
 Includes pre-packaged Docker Images, all pre-configured to provide a wonderful PHP development environment.
 
